@@ -1,1 +1,1 @@
-()[https://yurikoex.github.io/knaves-out/#/]
+[Specification](https://yurikoex.github.io/knaves-out/#/)
