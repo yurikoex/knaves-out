@@ -1,13 +1,11 @@
 {
   "name": "knaves-out",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A modern war game played with classic game pieces",
   "main": "index.js",
   "scripts": {
     "start": "npm run start:spec && npm run start:serve",
-    "start:docsify": "docsify serve docs",
-    "start:spec": "spec-md > ./specs/output.html ./docs/README.md",
-    "start:serve": "serve"
+    "start:docsify": "docsify serve docs"
   },
   "repository": {
     "type": "git",
