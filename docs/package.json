@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run start:spec && npm run start:serve",
-    "start:docsify": "cp package.json ./docs && docsify serve docs",
-    "convert": "node_modules/.bin/docsify-pdf-converter"
+    "start:docsify": "cp package.json ./docs && docsify serve docs"
   },
   "repository": {
     "type": "git",
@@ -20,7 +19,6 @@
   },
   "homepage": "https://github.com/yurikoex/knaves-out#readme",
   "devDependencies": {
-    "docsify": "^4.9.4",
-    "docsify-pdf-converter": "^2.0.7"
+    "docsify": "^4.9.4"
   }
 }

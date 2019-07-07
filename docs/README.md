@@ -58,7 +58,7 @@ There are 4 towers of cards on the table in front of each player. Each tower is 
 Knaves are the founding fathers of kingdoms. They are the first to power, then they gather and build everything around them more and more. When building a court, a player can only place a jack card face up as their first card. This becomes the foundation to the first tower. 
 
 #### Basic Knave Actions
-| Num Cards | Action | Effect |
+| Cost | Action | Effect |
 | --------- | ------ | ------ |
 | 2 cards | Elect Queen | Place a queen |
 | 2 cards | Hire Pawn | Place a pawn around city |
@@ -70,11 +70,12 @@ Knaves are the founding fathers of kingdoms. They are the first to power, then t
 Queens are the face of the kingdom. Beautiful and regal yet manipulative and cunning. A queen can only be placed by turning 2 cards from the knave tower face down
 
 #### Basic Queen Actions
-
-- 2 cards - Off with der head - Deal Damage to adjacent enemy
-- 2 cards - 
-- 4 cards - 
-- 8 cards - 
+| Cost | Action | Effect |
+| --------- | ------ | ------ |
+| 2 cards | Off with der head | Deal Damage to adjacent[^1] enemy |
+| 2 cards |  |  |
+| 4 cards |  |  |
+| 8 cards |  |  |
 
 
 ## Playing Cards
@@ -84,3 +85,6 @@ As players are allowed to place cards face up, they must place them in order A, 
 
 # Appenddix
 
+## Terms
+
+[^1] Adjacent: Two pieces on the boards with touching squares.
