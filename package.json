@@ -4,8 +4,7 @@
   "description": "A modern war game played with classic game pieces",
   "main": "index.js",
   "scripts": {
-    "start": "npm run start:spec && npm run start:serve",
-    "start:docsify": "cp package.json ./docs && docsify serve docs",
+    "start": "cp package.json ./docs && docsify serve docs",
     "convert": "node_modules/.bin/docsify-pdf-converter"
   },
   "repository": {

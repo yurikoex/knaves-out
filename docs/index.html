@@ -20,8 +20,9 @@
   <script>
     window.$docsify = {
       coverpage: 'cover.md',
-      onlyCover: false,
-      loadSidebar: false
+      onlyCover: true,
+      loadSidebar: true,
+      subMaxLevel: 10
     };
     fetch('package.json').then(res => res.json()).then(({version}) =>{
       this.version=version

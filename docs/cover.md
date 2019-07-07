@@ -11,4 +11,4 @@
 - Don't like a rule? Send a pull request
 
 [GitHub](https://github.com/yurikoex/knaves-out/)
-[Get Started](#introduction)
+[Get Started](/introduction/)
