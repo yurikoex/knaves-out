@@ -72,3 +72,8 @@ Possible **Black Courts**:
 ## Playing Cards
 
 As players are allowed to place cards face up, they must place them in order A, 2-10, J, Q, K, above each of the corresponding court cards and/or the Ace of Spades.
+
+## Pawns
+
+
+[filename](./pawns.md ':include')
