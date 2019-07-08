@@ -7,13 +7,15 @@
   1. Each player must have a copy of all 4 games and have all game pieces accounted for before playing.
   2. All players roll all 5 dice. Highest total goes first. Ties need to be settled between the tied players however they decide.
   3. To create the world of Dominatri, each player begins to place a Draughts/Chess board on the table, clockwise unless south of the equator. If in space or on a planetary body other than Earth, always go counter clockwise.
-
-  ![Setup](../_media/board_constraints.png)
-
   4. As players place each board, at least 3 squares must be ajacent to another board(s) already placed on the table.
 
-  ![Setup](../_media/world_setup.png)
+  ![Setup](../_media/board_constraints.png 'Align boards to allow 3 squares to touch')
+              - Align boards to allow 3 squares to touch
 
+  ![Setup](../_media/world_setup.png 'Example 8 player world of Dominatri.')
+              - Example 8 player world of Dominatri.
+
+  5. Players continue to place the white king building 4 black checkers under it.
   5. Each player should shuffle their personal deck of cards.
   6. All players draw 7 cards.
   7. Each player can have 1 mulligan.
@@ -21,15 +23,17 @@
 
 ## Turn
 
-Each player takes a turn following the same order described in 2.1.3.
+Each player takes a turn following the same order described in setup.
 
 ### Basic Rules of a Turn
 
-1. Shuffle all face down cards.
-2. Draw 1 face down card
-3. Play 1 card from hand face up
-4. Take 1 allowed action, paying the cost from the appropriete tower of cards returning them to face down
-5. If over 7 cards in hand, discard face down on table.
+1. If empty hand, draw 7 cards, else...
+    1. Draw 1 card.
+2. Play 1 card from hand face up.
+3. Take 1 allowed action, paying the cost from the appropriete tower of cards returning them to face down.
+4. If over 7 cards in hand, discard extra cards face down on table.
+5. If 7 cards in hand and no cards played this turn, you may discard hand face down.
+6. Shuffle all face down cards while waiting for your next turn
    
 ## Courts
 
@@ -84,3 +88,22 @@ As players are allowed to place cards face up, they must place them in order A, 
 
 
 [filename](./pawns.md ':include')
+
+## Winning
+
+### Last Man Standing
+
+If all other players are defeated and you are alive, you win.
+
+### Gather 3 Ancient Relics
+
+After playing the Ace of Spades, Players can quest to gather the 3 ancient relics scattered across the map.
+
+**Relic Locations**
+- Farthest corner of a board away from your king building.
+- Closest empty red square to the closest enemy king building.
+- At sea.
+
+## Defeat
+
+If your white king building is damaged beyond repair(turns black), you are defeated.
