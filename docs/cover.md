@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/logo.png)
+![logo](_media/logo_small.png)
 
 # Knaves Out 0.0.1
 
