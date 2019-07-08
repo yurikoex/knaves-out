@@ -22,7 +22,8 @@
       coverpage: 'cover.md',
       onlyCover: true,
       loadSidebar: true,
-      subMaxLevel: 10
+      subMaxLevel: 10,
+      logo: '/_media/logo.png'
     };
     fetch('package.json').then(res => res.json()).then(({version}) =>{
       this.version=version

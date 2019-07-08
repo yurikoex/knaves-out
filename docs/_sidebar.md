@@ -3,3 +3,4 @@
 * [Home](/)
 * [Introduction](/introduction/)
 * [Rules](/rules/)
+* [Appendix](/appendix/)

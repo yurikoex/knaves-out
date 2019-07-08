@@ -38,12 +38,36 @@ Knaves are the founding fathers of kingdoms. They are the first to power, then t
 
 ### Queen
 
-Queens are the face of the kingdom. Beautiful and regal yet manipulative and cunning. A queen can only be placed by turning 2 cards from the knave tower face down
+Queens are the face of the kingdom. Beautiful and regal yet manipulative and cunning.
 
 #### Basic Queen Actions
 
 [filename](../actions/queen_basic.md ':include')
 
+### King
+
+The most powerful man in all the kingdom. 
+
+#### Basic King Actions
+
+[filename](../actions/king_basic.md ':include')
+
+### Court Type
+
+Depending on the makeup of the court's suite and/or color, the court acquires a *court type*.
+
+#### Black Court
+
+A black court is a nefarious group of dark souls using magic and evil to expand its power.
+
+Possible **Black Courts**:
+- Jack of Clubs, Queen of Clubs, King of Spades
+- Jack of Clubs, Queen of Spades, King of Spades
+- Jack of Spades, Queen of Clubs, King of Spades
+- Jack of Spades, Queen of Spades, King of Clubs
+- Jack of Spades, Queen of Clubs, King of Clubss
+
+[filename](../actions/black_court.md ':include')
 
 ## Playing Cards
 
