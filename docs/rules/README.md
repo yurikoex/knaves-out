@@ -67,6 +67,7 @@ Possible **Black Courts**:
 - Jack of Spades, Queen of Spades, King of Clubs
 - Jack of Spades, Queen of Clubs, King of Clubss
 
+
 [filename](../actions/black_court.md ':include')
 
 ## Playing Cards
