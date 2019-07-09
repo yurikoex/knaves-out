@@ -62,3 +62,4 @@ Tainted Effects:
 | ---- | ------ |
 | Knave | **All Hail** costs 3 |
 | Knave | All new buildings are now tainted |
+| Queen | **Poison** Roll 6 sided die, rolling 1 causes king with switch the cup, queen diess |
