@@ -1,6 +1,10 @@
 Pawns are the soldiers of the kingdom. Each pawn represents a collection of military might that a kingdom owns.
 
+<<<<<<< HEAD
 A pawn can attack other adjacent or diagonal chess pieces on the board(s), including their own if you desired.
+=======
+A pawn can attack other adjacent or diagonal chess pieces on the board(s).
+>>>>>>> 00d41866447e486e451640a54ed4a883e5a07d24
 
 Each pawn can attack with 1 die at a time. To successfully attack a pawn must roll 5-6 on a six sided die.
 
