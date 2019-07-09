@@ -1,4 +1,6 @@
 | Cost | Action | Effect |
 | --------- | ------ | ------ |
-| 1 each | Raise Dead | If black bishop building in play, raise 1 black pawn |
-| 4 each | Boister Undead | add checker under each black pawn |
+| 1 each | Raise Dead | If black bishop building in play, raise 1 black unpawn |
+| 2 each | Taint | Building becomes tainted, replace with black chess piece |
+| 4 each | Boister Undead | add checker under each black unpawn |
+| King full tower | Lich King | King is now lich, all king actions cost half as less |

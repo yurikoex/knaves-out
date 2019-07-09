@@ -4,7 +4,7 @@
 
 ## Setup
 
-  1. Each player must have a copy of all 4 games and have all game pieces accounted for before playing.
+  1. Each player must have a copy of all 4 games and have all game pieces accounted for before playing. Each player is encouraged to bring unique pieces to the game to help distinguish players and to show off their personalities.
   2. All players roll all 5 dice. Highest total goes first. Ties need to be settled between the tied players however they decide.
   3. To create the world of Dominatri, each player begins to place a Draughts/Chess board on the table, clockwise unless south of the equator. If in space or on a planetary body other than Earth, always go counter clockwise.
   4. As players place each board, at least 3 squares must be ajacent to another board(s) already placed on the table.
@@ -16,10 +16,8 @@
               - Example 8 player world of Dominatri.
 
   5. Players continue to place the white king building 4 black checkers under it.
-  5. Each player should shuffle their personal deck of cards.
-  6. All players draw 7 cards.
-  7. Each player can have 1 mulligan.
-  8. Highest player takes the first turn.
+  6. Each player should shuffle their personal deck of cards.
+  7. Highest player takes the first turn.
 
 ## Turn
 
@@ -27,15 +25,16 @@ Each player takes a turn following the same order described in setup.
 
 ### Basic Rules of a Turn
 
-1. If empty hand, draw 7 cards, else...
-    1. Draw 1 card.
-2. Play 1 card from hand face up.
-3. Take 1 allowed action, paying the cost from the appropriate tower of cards returning them to face down.
-4. Move pawns
-5. Attack
-6. If over 7 cards in hand, discard extra cards face down on table.
-7. If 7 cards in hand and no cards played this turn, you may discard hand face down.
-8. Shuffle all face down cards while waiting for your next turn
+1. If empty hand, draw 10 cards, else...
+    - Draw up to 10 cards in hands.
+2. Play any cards from hand face up on towers.s
+3. Take any of the following 3 steps in any order.
+    - Take 1 allowed action
+    - Move pawns
+    - Attack
+4. If over 10 cards in hand, discard extra cards.
+5. If 10 cards in hand and no cards played this turn, you may discard hand.
+6. Shuffle all face down cards while waiting for your next turn
    
 ## Courts
 
@@ -66,7 +65,7 @@ The most powerful man in all the kingdom.
 
 ### Court Type
 
-Depending on the makeup of the court's suite and/or color, the court acquires a *court type*.
+Depending on the makeup of the court's suite and/or color, so once all 3 cards are placed, the court acquires a *court type*.
 
 #### Black Court
 
@@ -133,7 +132,7 @@ Possible **Heart Courts**:
 
 #### Chaos Court
 
-The chaos court doesn't care if it wins. It just wants chaos to reign and restore the origins of exists. A chaos soup.
+The chaos court doesn't care if it wins. This group of rulers are so busy clashing with each other they barely get anything done.
 
 Possible **Chaos Courts**:
 - Jack of Diamonds, Queen of Clubs, King of Hearts
@@ -206,8 +205,11 @@ As players are allowed to place cards face up, they must place them in order A, 
 
 ## Pawns
 
-
 [filename](./pawns.md ':include')
+
+## Buildings
+
+Buildings show the might of an kingdom. If 
 
 ## Winning
 
