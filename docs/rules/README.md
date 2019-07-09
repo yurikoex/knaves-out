@@ -16,10 +16,8 @@
               - Example 8 player world of Dominatri.
 
   5. Players continue to place the white king building 4 black checkers under it.
-  5. Each player should shuffle their personal deck of cards.
-  6. All players draw 7 cards.
-  7. Each player can have 1 mulligan.
-  8. Highest player takes the first turn.
+  6. Each player should shuffle their personal deck of cards.
+  7. Highest player takes the first turn.
 
 ## Turn
 
