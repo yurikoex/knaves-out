@@ -30,10 +30,12 @@ Each player takes a turn following the same order described in setup.
 1. If empty hand, draw 7 cards, else...
     1. Draw 1 card.
 2. Play 1 card from hand face up.
-3. Take 1 allowed action, paying the cost from the appropriete tower of cards returning them to face down.
-4. If over 7 cards in hand, discard extra cards face down on table.
-5. If 7 cards in hand and no cards played this turn, you may discard hand face down.
-6. Shuffle all face down cards while waiting for your next turn
+3. Take 1 allowed action, paying the cost from the appropriate tower of cards returning them to face down.
+4. Move pawns
+5. Attack
+6. If over 7 cards in hand, discard extra cards face down on table.
+7. If 7 cards in hand and no cards played this turn, you may discard hand face down.
+8. Shuffle all face down cards while waiting for your next turn
    
 ## Courts
 
@@ -75,10 +77,128 @@ Possible **Black Courts**:
 - Jack of Clubs, Queen of Spades, King of Spades
 - Jack of Spades, Queen of Clubs, King of Spades
 - Jack of Spades, Queen of Spades, King of Clubs
-- Jack of Spades, Queen of Clubs, King of Clubss
+- Jack of Spades, Queen of Clubs, King of Clubs
 
 
 [filename](../actions/black_court.md ':include')
+
+#### Red Court
+
+The red court is hotheaded bunch. They move with haste throwing caution to the wind.
+
+Possible **Red Courts**:
+- Jack of Diamonds, Queen of Diamonds, King of Hearts
+- Jack of Diamonds, Queen of Hearts, King of Hearts
+- Jack of Hearts, Queen of Diamonds, King of Hearts
+- Jack of Hearts, Queen of Hearts, King of Diamonds
+- Jack of Hearts, Queen of Diamonds, King of Diamonds
+
+[filename](../actions/red_court.md ':include')
+
+#### Spade Court
+
+The spade court is determined to dominate. They execute with the guidance of unseen servants from the great beyond leading them to victory.
+
+Possible **Spade Courts**:
+- Jack of Spades, Queen of Spades, King of Spades
+
+[filename](../actions/spade_court.md ':include')
+
+#### Club Court
+
+The club court runs on fate. They consider themselves the chosen ones, so a roll of the die should always be in their favor.
+
+Possible **Club Courts**:
+- Jack of Clubs, Queen of Clubs, King of Clubs
+
+[filename](../actions/club_court.md ':include')
+
+#### Diamond Court
+
+The diamond court considers their kingdom invincible. 
+
+Possible **Diamond Courts**:
+- Jack of Diamonds, Queen of Diamonds, King of Diamonds
+
+[filename](../actions/diamond_court.md ':include')
+
+#### Heart Court
+
+The heart court overflows with spirit. Courageousness and willpower spew from their very being.
+
+Possible **Heart Courts**:
+- Jack of Hearts, Queen of Hearts, King of Hearts
+
+[filename](../actions/heart_court.md ':include')
+
+#### Chaos Court
+
+The chaos court doesn't care if it wins. It just wants chaos to reign and restore the origins of exists. A chaos soup.
+
+Possible **Chaos Courts**:
+- Jack of Diamonds, Queen of Clubs, King of Hearts
+- Jack of Diamonds, Queen of Clubs, King of Spades
+- Jack of Diamonds, Queen of Hearts, King of Clubs
+- Jack of Diamonds, Queen of Hearts, King of Spades
+- Jack of Diamonds, Queen of Spades, King of Clubs
+- Jack of Diamonds, Queen of Spades, King of Hearts
+- Jack of Diamonds, Queen of Hearts, King of Hearts
+- Jack of Diamonds, Queen of Spades, King of Spades
+- Jack of Diamonds, Queen of Clubs, King of Clubs
+- Jack of Diamonds, Queen of Diamonds, King of Spades
+- Jack of Diamonds, Queen of Diamonds, King of Hearts
+- Jack of Diamonds, Queen of Diamonds, King of Clubs
+- Jack of Diamonds, Queen of Spades, King of Diamonds
+- Jack of Diamonds, Queen of Hearts, King of Diamonds
+- Jack of Diamonds, Queen of Clubs, King of Diamonds
+- Jack of Clubs, Queen of Diamonds, King of Hearts
+- Jack of Clubs, Queen of Diamonds, King of Spades
+- Jack of Clubs, Queen of Hearts, King of Diamonds
+- Jack of Clubs, Queen of Hearts, King of Spades
+- Jack of Clubs, Queen of Spades, King of Diamonds
+- Jack of Clubs, Queen of Spades, King of Hearts
+- Jack of Clubs, Queen of Hearts, King of Hearts
+- Jack of Clubs, Queen of Spades, King of Spades
+- Jack of Clubs, Queen of Diamonds, King of Diamonds
+- Jack of Clubs, Queen of Clubs, King of Spades
+- Jack of Clubs, Queen of Clubs, King of Hearts
+- Jack of Clubs, Queen of Clubs, King of Diamonds
+- Jack of Clubs, Queen of Spades, King of Clubs
+- Jack of Clubs, Queen of Hearts, King of Clubs
+- Jack of Clubs, Queen of Diamonds, King of Clubs
+- Jack of Hearts, Queen of Diamonds, King of Clubs
+- Jack of Hearts, Queen of Diamonds, King of Spades
+- Jack of Hearts, Queen of Clubs, King of Diamonds
+- Jack of Hearts, Queen of Clubs, King of Spades
+- Jack of Hearts, Queen of Spades, King of Diamonds
+- Jack of Hearts, Queen of Spades, King of Clubs
+- Jack of Hearts, Queen of Clubs, King of Clubs
+- Jack of Hearts, Queen of Spades, King of Spades
+- Jack of Hearts, Queen of Diamonds, King of Diamonds
+- Jack of Hearts, Queen of Hearts, King of Spades
+- Jack of Hearts, Queen of Hearts, King of Hearts
+- Jack of Hearts, Queen of Hearts, King of Diamonds
+- Jack of Hearts, Queen of Spades, King of Hearts
+- Jack of Hearts, Queen of Clubs, King of Hearts
+- Jack of Hearts, Queen of Diamonds, King of Hearts
+- Jack of Spades, Queen of Diamonds, King of Clubs
+- Jack of Spades, Queen of Diamonds, King of Hearts
+- Jack of Spades, Queen of Clubs, King of Diamonds
+- Jack of Spades, Queen of Clubs, King of Hearts
+- Jack of Spades, Queen of Hearts, King of Diamonds
+- Jack of Spades, Queen of Hearts, King of Clubs
+- Jack of Spades, Queen of Clubs, King of Clubs
+- Jack of Spades, Queen of Hearts, King of Hearts
+- Jack of Spades, Queen of Diamonds, King of Diamonds
+- Jack of Spades, Queen of Spades, King of Hearts
+- Jack of Spades, Queen of Hearts, King of Clubs
+- Jack of Spades, Queen of Hearts, King of Diamonds
+- Jack of Spades, Queen of Spades, King of Hearts
+- Jack of Spades, Queen of Clubs, King of Hearts
+- Jack of Spades, Queen of Diamonds, King of Hearts
+
+
+[filename](../actions/chaos_court.md ':include')
 
 ## Playing Cards
 
