@@ -9,7 +9,7 @@
 - Completely rethought the most common court, chaos.
 - Added written joker rules from playtesting
 
-## TODO
+#### TODO
 - More taint rules for joker
 - More playtesting for board game mechanics
 - Finish seafaring
@@ -17,5 +17,5 @@
 # 0.0.1
 - Initial rule set
 
-## TODO
+#### TODO
 - Finish the damn game
