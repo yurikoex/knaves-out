@@ -36,3 +36,7 @@
 #### Chaos Actions
 
 [filename](../actions/chaos_court.md ':include')
+
+#### Ace of Spades Actions
+
+[filename](../actions/aos.md ':include')
