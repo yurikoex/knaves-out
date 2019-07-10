@@ -1,3 +1,6 @@
+# 0.0.5
+- Simplified wording on draw rule
+
 # 0.0.4
 - Full text search
 
