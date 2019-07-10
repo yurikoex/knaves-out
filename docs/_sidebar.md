@@ -5,3 +5,4 @@
 * [Rules](/rules/)
 * [Actions](/actions/)
 * [Appendix](/appendix/)
+* [Changelog](/changelog/)
