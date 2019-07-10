@@ -18,5 +18,5 @@ Knaves Out was created using existing classic games combined in a new modern way
 
 - Craps Dice(5 six sided)
 - French Playing Cards
-- Draughts
+- Checkers
 - Chess

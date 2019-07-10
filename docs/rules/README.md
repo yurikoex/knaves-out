@@ -6,7 +6,7 @@
 
   1. Each player must have a copy of all 4 games and have all game pieces accounted for before playing. Each player is encouraged to bring unique pieces to the game to help distinguish players and to show off their personalities.
   2. All players roll all 5 dice. Highest total goes first. Ties need to be settled between the tied players however they decide.
-  3. To create the world of Dominatri, each player begins to place a Draughts/Chess board on the table, clockwise unless south of the equator. If in space or on a planetary body other than Earth, always go counter clockwise.
+  3. To create the world of Dominatri, each player begins to place a Checkers/Chess board on the table, clockwise unless south of the equator. If in space or on a planetary body other than Earth, always go counter clockwise.
   4. As players place each board, at least 3 squares must be ajacent to another board(s) already placed on the table.
 
   ![Setup](../_media/board_constraints.png 'Align boards to allow 3 squares to touch')
