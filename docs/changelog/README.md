@@ -1,3 +1,6 @@
+# 0.0.4
+- Full text search
+
 # 0.0.3
 - Added seafaring to black/red courts
 
