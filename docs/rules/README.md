@@ -25,8 +25,7 @@ Each player takes a turn following the same order described in setup.
 
 ### Basic Rules of a Turn
 
-1. If empty hand, draw 10 cards, else...
-    - Draw up to 10 cards in hands.
+1. Draw up to 10 cards in hands.
 2. Play any cards from hand face up on towers.
 3. Take any of the following 3 steps in any order.
     - Take 1 allowed action
