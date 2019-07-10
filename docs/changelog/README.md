@@ -1,3 +1,5 @@
+# 0.0.3
+- Added seafaring to black/red courts
 
 # 0.0.2
 - Moved from 7 card hand limit to 10
