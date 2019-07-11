@@ -294,6 +294,9 @@ main.hidden {
     transition: transform 250ms ease-out, -webkit-transform 250ms ease-out;
     width: 300px;
     z-index: 20;
+    /* font-family: 'Titillium Web', sans-serif; */
+    font-family: 'Crimson Text', serif;
+    /* font-family: 'Questrial', sans-serif; */
 }
 
 .sidebar>h1 {
@@ -323,7 +326,7 @@ main.hidden {
 }
 
 .sidebar ul {
-    margin: 0 0 0 15px;
+    margin: 0 0 0 5px;
     padding: 0;
 }
 
@@ -340,6 +343,7 @@ main.hidden {
 .sidebar ul li a {
     border-bottom: none;
     display: block;
+    text-decoration: none;
 }
 
 .sidebar ul li ul {
