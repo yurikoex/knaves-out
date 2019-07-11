@@ -582,6 +582,23 @@ body.close .content {
     }
 }
 
+@media screen and (min-width: 768px) {
+    img {
+        width: 300px;
+    }
+
+    #main blockquote {
+        width: 300px;
+
+
+    }
+
+    pre {
+        width: 300px;
+    }
+
+}
+
 @media screen and (max-width: 768px) {
 
     .github-corner,
