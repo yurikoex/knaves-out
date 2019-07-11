@@ -10,10 +10,10 @@
   4. As players place each board, at least 3 squares must be ajacent to another board(s) already placed on the table.
 
   ![Setup](../_media/board_constraints.png 'Align boards to allow 3 squares to touch')
-              1.0 Align boards to allow 3 squares to touch
+              Align boards to allow 3 squares to touch
 
   ![Setup](../_media/world_setup.png 'Example 8 player world of Dominatri.')
-              1.1 Example 8 player world of Dominatri.
+              Example 8 player world of Dominatri.
 
   5. Players continue to place the white king building 4 black checkers under it.
   6. Each player should shuffle their personal deck of cards.
@@ -37,6 +37,10 @@ Each player takes a turn following the same order described in setup.
 ## Courts
 
 There are 4 towers of cards on the table in front of each player. Each tower is built on key cards. The basics of building towers is selecting a court to rule the kingdom. A court consists of a Knave(Jack), a Queen, and a King card. Depending on the combination of the court, different allowable actions are available to the player and the main strategy of Knaves Out.
+
+![Setup](../_media/towers.png 'Typical layout')
+> Typical play area layout.
+
 
 ### Knave
 

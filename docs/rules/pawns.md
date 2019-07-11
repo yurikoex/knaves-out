@@ -2,8 +2,12 @@ Pawns are the soldiers of the kingdom. Each pawn represents a collection of mili
 
 A pawn can attack other adjacent or diagonal chess pieces on the board(s), including their own if you desired.
 
-  ![Setup](../_media/attacking.png 'Chess pieces must touch to attack.')
-              Chess pieces must touch to attack. 1 and 2 can attack each other but 3 cannot.
+![Setup](../_media/attacking.png 'Chess pieces must touch to attack.')
+> Chess pieces must touch to attack. 1 and 2 can attack each other but 3 cannot.
+
+
+
+
 
 Each pawn can attack with 1 die at a time. To successfully attack a pawn must roll 5-6 on a six sided die.
 

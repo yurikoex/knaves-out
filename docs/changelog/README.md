@@ -1,3 +1,6 @@
+# 0.0.6
+- Switched to pure.css, Started customizing layout for mobile, web, print
+
 # 0.0.5
 - Simplified wording on draw rule
 
