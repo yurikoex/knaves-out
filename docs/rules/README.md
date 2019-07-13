@@ -25,11 +25,12 @@ Each player takes a turn following the same order described in setup.
 
 ### Basic Rules of a Turn
 
-1. Draw up to 10 cards in hands.
-2. Play any cards from hand face up on towers.
-3. Take any of the following 3 steps in any order.
+1. Shuffle discard with deck if desired.
+2. Draw up to 10 cards in hands.
+3. Take any of the following 4 steps in any order.
+    - Play any cards from hand face up on towers.
     - Take 1 allowed action
-    - Move pawns
+    - Move any number of pawns
     - Attack
 4. If over 10 cards in hand, discard extra cards.
 5. If 10 cards in hand and no cards played this turn, you may discard hand.
@@ -221,19 +222,17 @@ If a pawn can go to sea, he can move to the sea in 1 movement, but cannot return
 When a pawn returns to land, they can choose any space on the map next to the sea.=
 
 ### Ace of Spades
-This is special court card can only be played under special circumstances.
+This is special court card can only be played under special circumstances. It can be played in J, Q, K towers, but it is in play as a normal ace and cannot be played in an action if not in hand.
 
 This card unlocks the ancient relics quests.
 
-This also speeds up the player. Draw 2 cards, play 2 cards, play 2 actions. But all pawns and buildings can be hit on a 3-6 die roll.
+This also speeds up the player. play 2 actions. But all pawns and buildings can be hit on a 3-6 die roll.
 
 #### Ice Queen
-Draw 2 cards, play 1 cards, play 1 actions and buildings must be hit twice an attack to take damage.
+play 1 actions and buildings must be hit twice an attack to take damage.
 
 ### Building
 There are eight buildings. Each building can take 1 damage before being destroyed. If a building is destroyed, remove from the board.
-
-When a building is built, a white pawn appears to help defend the kingdom next to any owned building.
 
 When a building is built. It must be placed next to an existing building, adjacent or diagonal.
 
@@ -245,6 +244,16 @@ This building has be tainted by the corruption of man or the unholy.
 All white pawns act as 1 less their strength next to a tainted building. Minimum strength of 1
 
 All black pawns spawned next to a tainted building gain a max of extra checker.
+
+#### Rooks
+If two rooks are in play, the following actions are available
+
+[filename](./rooks.md ':include')
+
+#### Knights
+If two knights are in play, the following actions are available
+
+[filename](./knights.md ':include')
 
 ### Checker
 Checkers are used a indicators of improvement. 

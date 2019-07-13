@@ -1,3 +1,7 @@
+# 0.0.7
+- Removed buildings from spawning pawns
+- Add Rook and Knight building actions
+
 # 0.0.6
 - Switched to pure.css, Started customizing layout for mobile, web, print
 
