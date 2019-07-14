@@ -248,12 +248,12 @@ All black pawns spawned next to a tainted building gain a max of extra checker.
 #### Rooks
 If two rooks are in play, the following actions are available
 
-[filename](./rooks.md ':include')
+[filename](../actions/rooks.md ':include')
 
 #### Knights
 If two knights are in play, the following actions are available
 
-[filename](./knights.md ':include')
+[filename](../actions/knights.md ':include')
 
 ### Checker
 Checkers are used a indicators of improvement. 
