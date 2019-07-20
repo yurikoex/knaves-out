@@ -6,9 +6,6 @@ A pawn can attack other adjacent or diagonal chess pieces on the board(s), inclu
 > Chess pieces must touch to attack. 1 and 2 can attack each other but 3 cannot.
 
 
-
-
-
 Each pawn can attack with 1 die at a time. To successfully attack a pawn must roll 5-6 on a six sided die.
 
 A pawn can be boistered with various ways in the game. When boistered, a pawn could have up to 4 checker pieces under it. 

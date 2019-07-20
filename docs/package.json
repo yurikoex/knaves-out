@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/yurikoex/knaves-out/issues"
   },
-  "homepage": "https://github.com/yurikoex/knaves-out#readme",
-  "devDependencies": {
-    "docsify": "^4.9.4"
-  }
+  "homepage": "https://github.com/yurikoex/knaves-out#readme"
 }
