@@ -284,7 +284,7 @@ Tainted Effects:
 | Knave | All new buildings are now tainted |
 | Queen | **Poison** Roll 6 sided die, rolling 1 causes king with switch the cup, queen dies |
 | King | **Knight** Costs 3 |
-| King | *Evil King* Makes any black pawn succesfully attack with a die roll of 4-6 |
+| King | *Evil King* - Makes any black pawn succesfully attack with a die roll of 4-6 |
 
 ## Winning
 
