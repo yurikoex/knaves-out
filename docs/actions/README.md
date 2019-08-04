@@ -1,5 +1,5 @@
-
 #### Basic Knave Actions
+
 [filename](../actions/knave_basic.md ':include')
 
 #### Basic Queen Actions
@@ -15,6 +15,7 @@
 [filename](../actions/black_court.md ':include')
 
 #### Red Actions
+
 [filename](../actions/red_court.md ':include')
 
 #### Spade Actions

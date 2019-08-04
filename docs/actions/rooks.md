@@ -1,3 +1,3 @@
-| Cost | Action | Effect |
-| --------- | ------ | ------ |
-| 1 each | Catapult | Attack chess pieces next to any owned rook building as if it was a pawn |
+| Cost   | Action | Effect                                                                     |
+| ------ | ------ | -------------------------------------------------------------------------- |
+| 1 each | Train  | a white pawn appears to help defend the kingdom next to any owned building |

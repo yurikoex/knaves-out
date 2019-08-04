@@ -135,17 +135,44 @@ Possible **Heart Courts**:
 
 [filename](../actions/heart_court.md ':include')
 
+#### Harmony Court
+
+The harmony court preserves a fine balance of influence over it's kingdom.
+
+Possible **Harmony Courts**:
+- Jack of Diamonds, Queen of Spades, King of Clubs
+- Jack of Diamonds, Queen of Spades, King of Hearts
+- Jack of Clubs, Queen of Diamonds, King of Hearts
+- Jack of Clubs, Queen of Diamonds, King of Spades
+- Jack of Clubs, Queen of Hearts, King of Diamonds
+- Jack of Clubs, Queen of Hearts, King of Spades
+- Jack of Clubs, Queen of Spades, King of Diamonds
+- Jack of Clubs, Queen of Spades, King of Hearts
+- Jack of Hearts, Queen of Diamonds, King of Clubs
+- Jack of Hearts, Queen of Diamonds, King of Spades
+- Jack of Hearts, Queen of Clubs, King of Diamonds
+- Jack of Hearts, Queen of Clubs, King of Spades
+- Jack of Hearts, Queen of Spades, King of Diamonds
+- Jack of Hearts, Queen of Spades, King of Clubs
+- Jack of Spades, Queen of Diamonds, King of Clubs
+- Jack of Spades, Queen of Diamonds, King of Hearts
+- Jack of Spades, Queen of Clubs, King of Diamonds
+- Jack of Spades, Queen of Clubs, King of Hearts
+- Jack of Spades, Queen of Hearts, King of Diamonds
+- Jack of Spades, Queen of Hearts, King of Clubs
+- Jack of Spades, Queen of Hearts, King of Diamonds
+- Jack of Spades, Queen of Clubs, King of Hearts
+- Jack of Spades, Queen of Diamonds, King of Hearts
+
+
+[filename](../actions/harmony_court.md ':include')
+
+
 #### Chaos Court
 
 The chaos court doesn't care if it wins. This group of rulers are so busy clashing with each other they barely get anything done.
 
 Possible **Chaos Courts**:
-- Jack of Diamonds, Queen of Clubs, King of Hearts
-- Jack of Diamonds, Queen of Clubs, King of Spades
-- Jack of Diamonds, Queen of Hearts, King of Clubs
-- Jack of Diamonds, Queen of Hearts, King of Spades
-- Jack of Diamonds, Queen of Spades, King of Clubs
-- Jack of Diamonds, Queen of Spades, King of Hearts
 - Jack of Diamonds, Queen of Hearts, King of Hearts
 - Jack of Diamonds, Queen of Spades, King of Spades
 - Jack of Diamonds, Queen of Clubs, King of Clubs
@@ -155,11 +182,6 @@ Possible **Chaos Courts**:
 - Jack of Diamonds, Queen of Spades, King of Diamonds
 - Jack of Diamonds, Queen of Hearts, King of Diamonds
 - Jack of Diamonds, Queen of Clubs, King of Diamonds
-- Jack of Clubs, Queen of Diamonds, King of Hearts
-- Jack of Clubs, Queen of Diamonds, King of Spades
-- Jack of Clubs, Queen of Hearts, King of Diamonds
-- Jack of Clubs, Queen of Hearts, King of Spades
-- Jack of Clubs, Queen of Spades, King of Diamonds
 - Jack of Clubs, Queen of Spades, King of Hearts
 - Jack of Clubs, Queen of Hearts, King of Hearts
 - Jack of Clubs, Queen of Spades, King of Spades
@@ -170,12 +192,6 @@ Possible **Chaos Courts**:
 - Jack of Clubs, Queen of Spades, King of Clubs
 - Jack of Clubs, Queen of Hearts, King of Clubs
 - Jack of Clubs, Queen of Diamonds, King of Clubs
-- Jack of Hearts, Queen of Diamonds, King of Clubs
-- Jack of Hearts, Queen of Diamonds, King of Spades
-- Jack of Hearts, Queen of Clubs, King of Diamonds
-- Jack of Hearts, Queen of Clubs, King of Spades
-- Jack of Hearts, Queen of Spades, King of Diamonds
-- Jack of Hearts, Queen of Spades, King of Clubs
 - Jack of Hearts, Queen of Clubs, King of Clubs
 - Jack of Hearts, Queen of Spades, King of Spades
 - Jack of Hearts, Queen of Diamonds, King of Diamonds
@@ -184,22 +200,10 @@ Possible **Chaos Courts**:
 - Jack of Hearts, Queen of Hearts, King of Diamonds
 - Jack of Hearts, Queen of Spades, King of Hearts
 - Jack of Hearts, Queen of Clubs, King of Hearts
-- Jack of Hearts, Queen of Diamonds, King of Hearts
-- Jack of Spades, Queen of Diamonds, King of Clubs
-- Jack of Spades, Queen of Diamonds, King of Hearts
-- Jack of Spades, Queen of Clubs, King of Diamonds
-- Jack of Spades, Queen of Clubs, King of Hearts
-- Jack of Spades, Queen of Hearts, King of Diamonds
-- Jack of Spades, Queen of Hearts, King of Clubs
-- Jack of Spades, Queen of Clubs, King of Clubs
 - Jack of Spades, Queen of Hearts, King of Hearts
 - Jack of Spades, Queen of Diamonds, King of Diamonds
 - Jack of Spades, Queen of Spades, King of Hearts
-- Jack of Spades, Queen of Hearts, King of Clubs
-- Jack of Spades, Queen of Hearts, King of Diamonds
 - Jack of Spades, Queen of Spades, King of Hearts
-- Jack of Spades, Queen of Clubs, King of Hearts
-- Jack of Spades, Queen of Diamonds, King of Hearts
 
 
 [filename](../actions/chaos_court.md ':include')
@@ -246,12 +250,16 @@ All white pawns act as 1 less their strength next to a tainted building. Minimum
 All black pawns spawned next to a tainted building gain a max of extra checker.
 
 #### Rooks
-If two rooks are in play, the following actions are available
+A rook building is the barracks of the kingdom. It can train and produce troops.
+
+If two rooks are in play, pawns produced by **Train** action start with a checker(if available)
 
 [filename](../actions/rooks.md ':include')
 
 #### Knights
-If two knights are in play, the following actions are available
+Knight buildings are the defense of the kingdom. They typically protect the King building, using the terrain to their advantage.
+
+If two knights buildings are in play, They attack with +1 die to a max of 5 dice.
 
 [filename](../actions/knights.md ':include')
 
