@@ -47,6 +47,8 @@ There are 4 towers of cards on the table in front of each player. Each tower is 
 
 Knaves are the founding fathers of kingdoms. They are the first to power, then they gather and build everything around them more and more. When building a court, a player can only place a jack card face up as their first card. This becomes the foundation to the first tower. 
 
+**NOTE**: Knaves have no way to be replaced as the game progresses like Kings/Queens. Choose your Knave suite/color carefully!
+
 #### Basic Knave Actions
 [filename](../actions/knave_basic.md ':include')
 
@@ -243,7 +245,7 @@ When a building is built. It must be placed next to an existing building, adjace
 A building may only have a max of 4 checkers.
 
 #### Tainted Building
-This building has be tainted by the corruption of man or the unholy. 
+This building has be tainted by the corruption of humans or the unholy. 
 
 All white pawns act as 1 less their strength next to a tainted building. Minimum strength of 1
 
@@ -289,8 +291,9 @@ Tainted Effects:
 | Card | Effect |
 | ---- | ------ |
 | Knave | **All Hail** costs 3 |
-| Knave | All new buildings are now tainted |
+| Knave | **Build** All new buildings are now tainted |
 | Queen | **Poison** Roll 6 sided die, rolling 1 causes king with switch the cup, queen dies |
+| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as black pawn, and gain 1 checker(max of 4 stil) |
 | King | **Knight** Costs 3 |
 | King | *Evil King* - Makes any black pawn succesfully attack with a die roll of 4-6 |
 
@@ -302,7 +305,7 @@ If all other players are defeated and you are alive, you win.
 
 ### Gather 3 Ancient Relics
 
-After playing the Ace of Spades, Players can quest to gather the 3 ancient relics scattered across the map.
+Players can quest to gather the 3 ancient relics scattered across the map.
 
 When at a relic location, attack the darkness, if successful, relic is acquired.
 
@@ -318,3 +321,13 @@ If every card is in play, you win!
 ## Defeat
 
 If your white king building is destroyed, you are defeated.
+
+## Advanced / Alternate Rules
+
+### Starting with court
+
+If your group decides to use this rule, start the game with a Knave, Queen, and King already in play. You can optionally have the Joker cards in play under any of the court cards.
+
+#### Add fuel to the fire
+
+If you wish, add A-3 to each tower to begin the game right into the action!

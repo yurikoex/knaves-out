@@ -1,3 +1,7 @@
+# 0.0.9
+
+-   Added Advanced rules
+
 # 0.0.8
 
 -   Switched Rook and Knight buildings
