@@ -7,11 +7,9 @@
 3. To create the world of Dominatri, each player begins to place a Checkers/Chess board on the table, clockwise unless south of the equator. If in space or on a planetary body other than Earth, always go counter clockwise.
 4. As players place each board, at least 3 squares must be ajacent to another board(s) already placed on the table.
 
-![Setup](../_media/board_constraints.png "Align boards to allow 3 squares to touch")
-Align boards to allow 3 squares to touch
+![Setup](../_media/board_constraints.png 'Align boards to allow 3 squares to touch')
 
-![Setup](../_media/world_setup.png "Example 8 player world of Dominatri.")
-Example 8 player world of Dominatri.
+![Setup](../_media/world_setup.png 'Example 8 player world of Dominatri.')
 
 5. Players continue to place the white king building 4 black checkers under it.
 6. Each player should shuffle their personal deck of cards.
@@ -37,7 +35,7 @@ Each player takes a turn following the same order described in setup.
 
 There are 4 towers of cards on the table in front of each player. Each tower is built on key cards. The basics of building towers is selecting a court to rule the kingdom. A court consists of a Knave(Jack), a Queen, and a King card. Depending on the combination of the court, different allowable actions are available to the player and the main strategy of Knaves Out.
 
-![Setup](../_media/towers.png "Typical layout")
+![Setup](../_media/towers.png 'Typical layout')
 
 > Typical play area layout.
 
@@ -49,7 +47,7 @@ Knaves are the founding fathers of kingdoms. They are the first to power, then t
 
 #### Basic Knave Actions
 
-[filename](../actions/knave_basic.md ":include")
+[filename](../actions/knave_basic.md ':include')
 
 ### Queen
 
@@ -57,7 +55,7 @@ Queens are the face of the kingdom. Beautiful and regal yet manipulative and cun
 
 #### Basic Queen Actions
 
-[filename](../actions/queen_basic.md ":include")
+[filename](../actions/queen_basic.md ':include')
 
 ### King
 
@@ -65,7 +63,7 @@ The most powerful man in all the kingdom.
 
 #### Basic King Actions
 
-[filename](../actions/king_basic.md ":include")
+[filename](../actions/king_basic.md ':include')
 
 ### Court Type
 
@@ -84,7 +82,7 @@ Possible **Black Courts**:
 - Jack of Spades, Queen of Spades, King of Clubs
 - Jack of Spades, Queen of Clubs, King of Clubs
 
-[filename](../actions/black_court.md ":include")
+[filename](../actions/black_court.md ':include')
 
 #### Red Court
 
@@ -99,7 +97,7 @@ Possible **Red Courts**:
 - Jack of Hearts, Queen of Hearts, King of Diamonds
 - Jack of Hearts, Queen of Diamonds, King of Diamonds
 
-[filename](../actions/red_court.md ":include")
+[filename](../actions/red_court.md ':include')
 
 #### Spade Court
 
@@ -109,7 +107,7 @@ Possible **Spade Courts**:
 
 - Jack of Spades, Queen of Spades, King of Spades
 
-[filename](../actions/spade_court.md ":include")
+[filename](../actions/spade_court.md ':include')
 
 #### Club Court
 
@@ -119,7 +117,7 @@ Possible **Club Courts**:
 
 - Jack of Clubs, Queen of Clubs, King of Clubs
 
-[filename](../actions/club_court.md ":include")
+[filename](../actions/club_court.md ':include')
 
 #### Diamond Court
 
@@ -129,7 +127,7 @@ Possible **Diamond Courts**:
 
 - Jack of Diamonds, Queen of Diamonds, King of Diamonds
 
-[filename](../actions/diamond_court.md ":include")
+[filename](../actions/diamond_court.md ':include')
 
 #### Heart Court
 
@@ -139,7 +137,7 @@ Possible **Heart Courts**:
 
 - Jack of Hearts, Queen of Hearts, King of Hearts
 
-[filename](../actions/heart_court.md ":include")
+[filename](../actions/heart_court.md ':include')
 
 #### Harmony Court
 
@@ -171,7 +169,7 @@ Possible **Harmony Courts**:
 - Jack of Spades, Queen of Clubs, King of Hearts
 - Jack of Spades, Queen of Diamonds, King of Hearts
 
-[filename](../actions/harmony_court.md ":include")
+[filename](../actions/harmony_court.md ':include')
 
 #### Chaos Court
 
@@ -211,7 +209,7 @@ Possible **Chaos Courts**:
 - Jack of Spades, Queen of Spades, King of Hearts
 - Jack of Spades, Queen of Spades, King of Hearts
 
-[filename](../actions/chaos_court.md ":include")
+[filename](../actions/chaos_court.md ':include')
 
 ## Playing Cards
 
@@ -219,7 +217,7 @@ As players are allowed to place cards face up, they must place them in order A, 
 
 ## Pawns
 
-[filename](./pawns.md ":include")
+[filename](./pawns.md ':include')
 
 ## Movement
 
@@ -251,7 +249,7 @@ A rook building is the barracks of the kingdom. It can train and produce troops.
 
 If two rooks are in play, pawns produced by **Train** action start with a checker(if available)
 
-[filename](../actions/rooks.md ":include")
+[filename](../actions/rooks.md ':include')
 
 #### Knights
 
@@ -259,7 +257,7 @@ Knight buildings are the defense of the kingdom. They typically protect the King
 
 If two knights buildings are in play, They attack with +1 die to a max of 5 dice.
 
-[filename](../actions/knights.md ":include")
+[filename](../actions/knights.md ':include')
 
 #### Bishop
 
@@ -267,7 +265,7 @@ Bishop buildings are the guiding holy light of the kingdom. They inspire hope in
 
 If two bishops buildings are in play, Their blessing targets need a 6 to hit.
 
-[filename](../actions/bishops.md ":include")
+[filename](../actions/bishops.md ':include')
 
 ### Checker
 
