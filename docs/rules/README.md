@@ -340,7 +340,7 @@ If every card is in play, you win!
 
 ## Defeat
 
-If your white king building is destroyed, you are defeated.
+If your king building is destroyed, you are defeated.
 
 ## Advanced / Alternate Rules
 
