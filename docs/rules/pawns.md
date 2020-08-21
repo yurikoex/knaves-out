@@ -18,4 +18,4 @@ Each checker gives the pawn +1 extra space it can move per turn.
 
 If a pawn dies, remove it from the board.
 
-You can never have more than 8 black pawns and 8 white pawns in play at once.
+You can never have more than 8 black pawns (unpawns) and 8 white pawns (pawns) in play at once.
