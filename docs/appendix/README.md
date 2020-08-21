@@ -28,13 +28,13 @@ This is special court card can only be played under special circumstances. It ca
 
 This card unlocks the ancient relics quests.
 
-### Motorhead
+#### Motorhead
 
 This variation of AOS speeds up the player.
 
 Play 2 actions, but wreckless abandon causes all pawns and buildings to be hit on a 3-6 die roll.
 
-### Ice Queen
+#### Ice Queen
 
 This variation of AOS makes the realm a frozen wasteland.
 

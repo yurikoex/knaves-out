@@ -215,9 +215,41 @@ Possible **Chaos Courts**:
 
 As players are allowed to place cards face up, they must place them in order A, 2-10, J, Q, K, above each of the corresponding court cards and/or the Ace of Spades.
 
-## Pawns
+### Special Cards
 
+Some cards have unique properties unlike oridinary and Court cards.
+
+#### Joker Card
+
+Play this card to search the deck for any card that can be played and play it. Leave the Joker card under the card.
+
+If the joker is under a card in a tower, then the tower is **with joker**.
+
+If the joker is under a court card, the card is now tainted.
+
+Tainted Effects:
+
+| Card  | Effect                                                                                                                           |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Knave | **All Hail** costs 3                                                                                                             |
+| Knave | **Build** All new buildings are now tainted                                                                                      |
+| Queen | **Poison** Roll 6 sided die, rolling 1 causes king to switch the cup, queen dies                                                 |
+| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as an unpawn, and gain 1 checker(max of 4 stil) |
+| King  | **Knight** Costs 3                                                                                                               |
+| King  | _Evil King_ - Makes any unpawn succesfully attack with a die roll of 4-6                                                         |
+
+#### Ace of Spades
+
+<<<<<<< HEAD
 [filename](./pawns.md ':include')
+=======
+This is special court card can only be played under special circumstances. It can be played in J, Q, K towers, but it is in play as a normal ace and cannot be played in an action if not in hand.
+
+This card unlocks the ancient relics quests.
+
+There are two variations of this card obtained from certain courts [Ice Queen](/appendix/?id=ice-queen) and [Motorhead](/appendix/?id=motorhead).
+
+> > > > > > > 51ce2a43184c99dfcc3e97ab62d8b8738fd258b2
 
 ## Movement
 
@@ -225,7 +257,27 @@ Pawns can move any direction. They can move a number of spaces equal to the chec
 
 A pawn can go to sea for the cost of 1 checker. It can move to the sea in 1 movement, but cannot return to land until next turn.
 
-When a pawn returns to land, they can choose any space on the map next to the sea.=
+When a pawn returns to land, they can choose any space on the map next to the sea.
+
+## Pawns
+
+[filename](./pawns.md ':include')
+
+### Unpawns
+
+Unpawns are the undead monstrosities born from the church's dark magic. These vile creatures are just as powerful as a pawn is, and follow all the same rules as a pawn would.
+
+## Checker
+
+Checkers are used as indicators to show that a chess piece has been boistered (or improved)
+
+A checker under a pawn means it has an extra damage dice, and extra movement, and an extra hit point.
+
+A checker under a building means it has an extra hit point
+
+Black checkers for buildings, max 12 deployed.
+
+Red checkers for pawns, max 12 deployed.
 
 ## Building
 
@@ -266,6 +318,7 @@ Bishop buildings are the guiding holy light of the kingdom. They inspire hope in
 If two bishops buildings are in play, Their blessing targets need a 6 to hit.
 
 [filename](../actions/bishops.md ':include')
+<<<<<<< HEAD
 
 ### Checker
 
@@ -297,6 +350,10 @@ Tainted Effects:
 | Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as black pawn, and gain 1 checker(max of 4 stil) |
 | King  | **Knight** Costs 3                                                                                                                |
 | King  | _Evil King_ - Makes any black pawn succesfully attack with a die roll of 4-6                                                      |
+
+=======
+
+> > > > > > > 51ce2a43184c99dfcc3e97ab62d8b8738fd258b2
 
 ## Winning
 
@@ -330,6 +387,6 @@ If your white king building is destroyed, you are defeated.
 
 If your group decides to use this rule, start the game with a Knave, Queen, and King already in play. You can optionally have the Joker cards in play under any of the court cards.
 
-#### Add fuel to the fire
+### Add fuel to the fire
 
 If you wish, add A-3 to each tower to begin the game right into the action!
