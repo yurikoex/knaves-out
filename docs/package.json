@@ -1,10 +1,10 @@
 {
   "name": "knaves-out",
-  "version": "0.0.7",
+  "version": "0.0.10",
   "description": "A modern war game played with classic game pieces",
   "main": "index.js",
   "scripts": {
-    "start": "cp package.json ./docs && docsify serve docs"
+    "start": "shx cp package.json ./docs && docsify serve docs"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/yurikoex/knaves-out#readme",
   "dependencies": {
     "docsify": "^4.9.4",
-    "docsify-cli": "^4.3.0"
+    "docsify-cli": "^4.3.0",
+    "shx": "^0.3.2"
   }
 }

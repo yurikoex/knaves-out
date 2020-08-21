@@ -2,13 +2,13 @@
 
 ![logo](_media/logo_small.png)
 
-# Knaves Out 0.0.9
+# Knaves Out 0.0.10
 
 > A modern war game played with classic game pieces.
 
--   2+ Players
--   You probably already have the game pieces
--   Don't like a rule? Send a pull request
+- 2 to infinity players
+- You probably already have the game pieces
+- Don't like a rule? Send a pull request
 
 [GitHub](https://github.com/yurikoex/knaves-out/)
 [Get Started](/introduction/)
