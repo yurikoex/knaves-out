@@ -240,16 +240,11 @@ Tainted Effects:
 
 #### Ace of Spades
 
-<<<<<<< HEAD
-[filename](./pawns.md ':include')
-=======
 This is special court card can only be played under special circumstances. It can be played in J, Q, K towers, but it is in play as a normal ace and cannot be played in an action if not in hand.
 
 This card unlocks the ancient relics quests.
 
-There are two variations of this card obtained from certain courts [Ice Queen](/appendix/?id=ice-queen) and [Motorhead](/appendix/?id=motorhead).
-
-> > > > > > > 51ce2a43184c99dfcc3e97ab62d8b8738fd258b2
+There are two variations of this card obtained from certain courts, [Ice Queen](/appendix/?id=ice-queen) and [Motorhead](/appendix/?id=motorhead).
 
 ## Movement
 
@@ -318,7 +313,6 @@ Bishop buildings are the guiding holy light of the kingdom. They inspire hope in
 If two bishops buildings are in play, Their blessing targets need a 6 to hit.
 
 [filename](../actions/bishops.md ':include')
-<<<<<<< HEAD
 
 ### Checker
 
@@ -331,29 +325,6 @@ A checker under a building means it has an extra hit point
 Black checkers for buildings, max 12 deployed.
 
 Red checkers for pawns, max 12 deployed.
-
-### Joker Card
-
-Play this card to search the deck for any card that can be played and play it. Leave the Joker card under the card.
-
-If the joker is under a card in a tower, then the tower is **with joker**.
-
-If the joker is under a court card, the card is now tainted.
-
-Tainted Effects:
-
-| Card  | Effect                                                                                                                            |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Knave | **All Hail** costs 3                                                                                                              |
-| Knave | **Build** All new buildings are now tainted                                                                                       |
-| Queen | **Poison** Roll 6 sided die, rolling 1 causes king to switch the cup, queen dies                                                  |
-| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as black pawn, and gain 1 checker(max of 4 stil) |
-| King  | **Knight** Costs 3                                                                                                                |
-| King  | _Evil King_ - Makes any black pawn succesfully attack with a die roll of 4-6                                                      |
-
-=======
-
-> > > > > > > 51ce2a43184c99dfcc3e97ab62d8b8738fd258b2
 
 ## Winning
 
