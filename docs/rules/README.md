@@ -173,7 +173,7 @@ Possible **Harmony Courts**:
 
 #### Chaos Court
 
-The chaos court doesn't care if it wins. This group of rulers are so busy clashing with each other they barely get anything done.
+The chaos court doesn't care if it wins. This group of rulers are so busy clashing with each other that they barely get anything done.
 
 Possible **Chaos Courts**:
 
@@ -217,13 +217,11 @@ As players are allowed to place cards face up, they must place them in order A, 
 
 ### Special Cards
 
-Some cards have unique properties unlike oridinary and Court cards.
+Some cards have unique properties unlike ordinary and Court cards.
 
 #### Joker Card
 
 Play this card to search the deck for any card that can be played and play it. Leave the Joker card under the card.
-
-If the joker is under a card in a tower, then the tower is **with joker**.
 
 If the joker is under a court card, the card is now tainted.
 
@@ -231,25 +229,22 @@ Tainted Effects:
 
 | Card  | Effect                                                                                                                           |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Knave | **All Hail** costs 3                                                                                                             |
+| Knave | **All Hail** Costs 3                                                                                                             |
 | Knave | **Build** All new buildings are now tainted                                                                                      |
 | Queen | **Poison** Roll 6 sided die, rolling 1 causes king to switch the cup, queen dies                                                 |
-| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as an unpawn, and gain 1 checker(max of 4 stil) |
+| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as an unpawn, and gain 1 checker.               |
 | King  | **Knight** Costs 3                                                                                                               |
 | King  | _Evil King_ - Makes any unpawn succesfully attack with a die roll of 4-6                                                         |
 
 #### Ace of Spades
 
-<<<<<<< HEAD
-[filename](./pawns.md ':include')
-=======
-This is special court card can only be played under special circumstances. It can be played in J, Q, K towers, but it is in play as a normal ace and cannot be played in an action if not in hand.
+This special court card can only be played under special circumstances. It can be played in the J, Q, and K towers, but it is in play as a normal ace. 
 
-This card unlocks the ancient relics quests.
+You can only place it as a court card if used in an action (see specifics on the actions that use this card below.)
 
-There are two variations of this card obtained from certain courts [Ice Queen](/appendix/?id=ice-queen) and [Motorhead](/appendix/?id=motorhead).
+There are two variations of this card obtained from certain courts, [Ice Queen](/appendix/?id=ice-queen) and [Motorhead](/appendix/?id=motorhead).
 
-> > > > > > > 51ce2a43184c99dfcc3e97ab62d8b8738fd258b2
+This card unlocks the ancient relics quests and is required for the Almighty ending.
 
 ## Movement
 
@@ -267,7 +262,7 @@ When a pawn returns to land, they can choose any space on the map next to the se
 
 Unpawns are the undead monstrosities born from the church's dark magic. These vile creatures are just as powerful as a pawn is, and follow all the same rules as a pawn would.
 
-## Checker
+## Checkers and Boistering
 
 Checkers are used as indicators to show that a chess piece has been boistered (or improved)
 
@@ -281,7 +276,7 @@ Red checkers for pawns, max 12 deployed.
 
 ## Building
 
-There are eight buildings. Each building can take 1 damage before being destroyed. If a building is destroyed, remove from the board.
+There are eight buildings. Each building can take 1 damage before being destroyed. If a building is destroyed, remove it from the board.
 
 When a building is built, it must be placed next to an existing building, adjacent or diagonal.
 
@@ -289,9 +284,9 @@ A building may only have a max of 4 checkers.
 
 ### Tainted Building
 
-This building has be tainted by the corruption of humans or the unholy.
+This building has been tainted by the corruption of humans or the unholy.
 
-All pawns act as 1 less their strength next to a tainted building. Minimum strength of 1
+All pawns act as 1 less their strength next to a tainted building. Minimum strength of 1.
 
 All unpawns spawned next to a tainted building gain an extra checker.
 
@@ -299,7 +294,7 @@ All unpawns spawned next to a tainted building gain an extra checker.
 
 A rook building is the barracks of the kingdom. It can train and produce troops.
 
-If two rooks are in play, pawns produced by **Train** action start with a checker(if available)
+If two rook buildings are in play, pawns produced by **Train** start with a checker.
 
 [filename](../actions/rooks.md ':include')
 
@@ -307,7 +302,7 @@ If two rooks are in play, pawns produced by **Train** action start with a checke
 
 Knight buildings are the defense of the kingdom. They typically protect the King building, using the terrain to their advantage.
 
-If two knights buildings are in play, They attack with +1 die to a max of 5 dice.
+If two knight buildings are in play, They attack with +1 die (max of 5 dice).
 
 [filename](../actions/knights.md ':include')
 
@@ -315,45 +310,9 @@ If two knights buildings are in play, They attack with +1 die to a max of 5 dice
 
 Bishop buildings are the guiding holy light of the kingdom. They inspire hope in the darkest of days.
 
-If two bishops buildings are in play, Their blessing targets need a 6 to hit.
+If two bishop buildings are in play, you need a perfect 6 die roll to hit their **Blessing** targets.
 
 [filename](../actions/bishops.md ':include')
-<<<<<<< HEAD
-
-### Checker
-
-Checkers are used a indicators of improvement.
-
-A checker under a pawn means it has an extra damage dice, and extra movement, and an extra hit point.
-
-A checker under a building means it has an extra hit point
-
-Black checkers for buildings, max 12 deployed.
-
-Red checkers for pawns, max 12 deployed.
-
-### Joker Card
-
-Play this card to search the deck for any card that can be played and play it. Leave the Joker card under the card.
-
-If the joker is under a card in a tower, then the tower is **with joker**.
-
-If the joker is under a court card, the card is now tainted.
-
-Tainted Effects:
-
-| Card  | Effect                                                                                                                            |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Knave | **All Hail** costs 3                                                                                                              |
-| Knave | **Build** All new buildings are now tainted                                                                                       |
-| Queen | **Poison** Roll 6 sided die, rolling 1 causes king to switch the cup, queen dies                                                  |
-| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as black pawn, and gain 1 checker(max of 4 stil) |
-| King  | **Knight** Costs 3                                                                                                                |
-| King  | _Evil King_ - Makes any black pawn succesfully attack with a die roll of 4-6                                                      |
-
-=======
-
-> > > > > > > 51ce2a43184c99dfcc3e97ab62d8b8738fd258b2
 
 ## Winning
 
@@ -375,7 +334,7 @@ When at a relic location, attack the darkness, if successful, relic is acquired.
 
 ### Almightly
 
-If every card is in play, you win!
+If every card is in play, (including the AOS and its tower) you win!
 
 ## Defeat
 
@@ -389,4 +348,4 @@ If your group decides to use this rule, start the game with a Knave, Queen, and 
 
 ### Add fuel to the fire
 
-If you wish, add A-3 to each tower to begin the game right into the action!
+If you wish, add A-3 to each tower to get right into the action!

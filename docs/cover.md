@@ -2,7 +2,7 @@
 
 ![logo](_media/logo_small.png)
 
-# Knaves Out 0.0.10
+# Knaves Out 0.0.11
 
 > A modern war game played with classic game pieces.
 

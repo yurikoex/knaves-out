@@ -39,3 +39,7 @@ Play 2 actions, but wreckless abandon causes all pawns and buildings to be hit o
 This variation of AOS makes the realm a frozen wasteland.
 
 Buildings must be hit twice an attack to take damage.
+
+### Attack Dice
+
+Attack dice equal the boistered checkers under a chess piece. Success is usually a roll of 5-6. The success can be modified by various actions and events.
