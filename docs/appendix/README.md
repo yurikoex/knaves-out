@@ -26,13 +26,13 @@ A frenzied pawn gets to attack attackers first, move 1 square, and 1 extra attac
 
 This is special court card can only be played under special circumstances. It can be played in J, Q, K towers, but it is in play as a normal ace and cannot be played in an action if not in hand.
 
-This card unlocks the ancient relics quests.
+This card unlocks the [Almighty](/rules/?id=almighty) [Gather 3 Ancient Relics](/rules/?id=gather-3-ancient-relics) endings.
 
 #### Motorhead
 
 This variation of AOS speeds up the player.
 
-Play 2 actions, but wreckless abandon causes all pawns and buildings to be hit on a 3-6 die roll.
+You can play 2 actions each turn, but wreckless abandon causes all pawns and buildings to be hit on a 3-6 die roll.
 
 #### Ice Queen
 

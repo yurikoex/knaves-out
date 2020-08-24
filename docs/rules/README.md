@@ -5,15 +5,15 @@
 1. Each player must have a copy of all 4 games and have all game pieces accounted for before playing. Each player is encouraged to bring unique pieces to the game to help distinguish players and to show off their personalities.
 2. All players roll all 5 dice. Highest total goes first. Ties need to be settled between the tied players however they decide.
 3. To create the world of Dominatri, each player begins to place a Checkers/Chess board on the table, clockwise unless south of the equator. If in space or on a planetary body other than Earth, always go counter clockwise.
-4. As players place each board, at least 3 squares must be ajacent to another board(s) already placed on the table.
+4. As players place each board, at least 3 squares must be adjacent to another board(s) already placed on the table.
 
 ![Setup](../_media/board_constraints.png 'Align boards to allow 3 squares to touch')
 
 ![Setup](../_media/world_setup.png 'Example 8 player world of Dominatri.')
 
-5. Players continue to place the white king building 4 black checkers under it.
+5. Players continue to place the white king building with 4 black checkers under it.
 6. Each player should shuffle their personal deck of cards.
-7. Highest player takes the first turn.
+7. Player with highest roll takes the first turn.
 
 ## Turn
 
@@ -22,7 +22,7 @@ Each player takes a turn following the same order described in setup.
 ### Basic Rules of a Turn
 
 1. Shuffle discard with deck if desired.
-2. Draw up to 10 cards in hands.
+2. Draw up to 10 cards in hand.
 3. Take any of the following 4 steps in any order.
    - Play any cards from hand face up on towers.
    - Take 1 allowed action
@@ -33,17 +33,19 @@ Each player takes a turn following the same order described in setup.
 
 ## Courts
 
-There are 4 towers of cards on the table in front of each player. Each tower is built on key cards. The basics of building towers is selecting a court to rule the kingdom. A court consists of a Knave(Jack), a Queen, and a King card. Depending on the combination of the court, different allowable actions are available to the player and the main strategy of Knaves Out.
+There are 3 towers of cards on the table in front of each player. Each tower is built on court cards. The basics of building towers is selecting a court to rule the kingdom. A court consists of a Knave(Jack), a Queen, and a King card. Depending on the combination of the court, different allowable actions are available to the player and the main strategy of Knaves Out.
+
+There is also a fourth tower that is unlockable through certain court actions. This tower is built upon the Ace of Spades, and works as a normal tower would. More information on the Ace of Spades can be found later on in the rules.
 
 ![Setup](../_media/towers.png 'Typical layout')
 
-> Typical play area layout.
+> Play area layout along with the AOS tower.
 
 ### Knave
 
 Knaves are the founding fathers of kingdoms. They are the first to power, then they gather and build everything around them more and more. When building a court, a player can only place a jack card face up as their first card. This becomes the foundation to the first tower.
 
-**NOTE**: Knaves have no way to be replaced as the game progresses like Kings/Queens. Choose your Knave suite/color carefully!
+**NOTE**: Knaves have no way to be replaced as the game progresses, unlike Kings/Queens. Choose your Knave suite/color very carefully!
 
 #### Basic Knave Actions
 
@@ -51,7 +53,7 @@ Knaves are the founding fathers of kingdoms. They are the first to power, then t
 
 ### Queen
 
-Queens are the face of the kingdom. Beautiful and regal yet manipulative and cunning.
+Queens are the face of the kingdom. Beautiful and regal, yet manipulative and cunning.
 
 #### Basic Queen Actions
 
@@ -67,11 +69,11 @@ The most powerful man in all the kingdom.
 
 ### Court Type
 
-Depending on the makeup of the court's suite and/or color, so once all 3 cards are placed, the court acquires a _court type_.
+After all 3 court cards are placed, the court acquires a _court type_ depending on the makeup of the court's suite and/or color.
 
 #### Black Court
 
-A black court is a nefarious group of dark souls using magic and evil to expand its power.
+The black court is a nefarious group of dark souls using magic and evil to expand its power.
 
 Possible **Black Courts**:
 
@@ -227,24 +229,24 @@ If the joker is under a court card, the card is now tainted.
 
 Tainted Effects:
 
-| Card  | Effect                                                                                                                           |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Knave | **All Hail** Costs 3                                                                                                             |
-| Knave | **Build** All new buildings are now tainted                                                                                      |
-| Queen | **Poison** Roll 6 sided die, rolling 1 causes king to switch the cup, queen dies                                                 |
-| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as an unpawn, and gain 1 checker.               |
-| King  | **Knight** Costs 3                                                                                                               |
-| King  | _Evil King_ - Makes any unpawn succesfully attack with a die roll of 4-6                                                         |
+| Card  | Effect                                                                                                             |
+| ----- | ------------------------------------------------------------------------------------------------------------------ |
+| Knave | **All Hail** Costs 3                                                                                               |
+| Knave | **Build** All new buildings are now tainted                                                                        |
+| Queen | **Poison** Roll 6 sided die, rolling 1 causes king to switch the cup, queen dies                                   |
+| Queen | **Charm** Roll 6 sided die, rolling 1 causes pawn to not move but die, resurrect as an unpawn, and gain 1 checker. |
+| King  | **Knight** Costs 3                                                                                                 |
+| King  | _Evil King_ - Makes any unpawn succesfully attack with a die roll of 4-6                                           |
 
 #### Ace of Spades
 
-This special court card can only be played under special circumstances. It can be played in the J, Q, and K towers, but it is in play as a normal ace. 
+This special court card can only be played under special circumstances. It can be played in the J, Q, and K towers, but it is in play as a normal ace.
 
 You can only place it as a court card if used in an action (see specifics on the actions that use this card below.)
 
 There are two variations of this card obtained from certain courts, [Ice Queen](/appendix/?id=ice-queen) and [Motorhead](/appendix/?id=motorhead).
 
-This card unlocks the ancient relics quests and is required for the Almighty ending.
+This card unlocks the [Almighty](/rules/?id=almighty) and [Gather 3 Ancient Relics](/rules/?id=gather-3-ancient-relics) endings.
 
 ## Movement
 
@@ -324,15 +326,17 @@ If all other players are defeated and you are alive, you win.
 
 Players can quest to gather the 3 ancient relics scattered across the map.
 
-When at a relic location, attack the darkness, if successful, relic is acquired.
+When at a relic location, attack the darkness, if the attack is successful, the relic is acquired.
 
-**Relic Locations**
+When you collect the first relic, your Knave tower crumbles and turns to dust. The second relic's collection causes the Queen tower to crumble into dust. The final relic does not destroy a tower, as you win!
+
+Relic Locations:
 
 - Farthest corner of a board away from your king building.
 - Closest empty red square to the closest enemy king building.
 - At sea.
 
-### Almightly
+### Almighty
 
 If every card is in play, (including the AOS and its tower) you win!
 
@@ -342,7 +346,7 @@ If your king building is destroyed, you are defeated.
 
 ## Advanced / Alternate Rules
 
-### Starting with court
+### Starting with a court
 
 If your group decides to use this rule, start the game with a Knave, Queen, and King already in play. You can optionally have the Joker cards in play under any of the court cards.
 
