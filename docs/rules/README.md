@@ -26,7 +26,7 @@ Each player takes a turn following the same order described in setup.
 3. Take any of the following 4 steps in any order.
    - Play any cards from hand face up on towers.
    - Take 1 allowed action
-   - Move any number of pawns
+   - Move any number of pawns/unpawns
    - Attack
 4. If over 10 cards in hand, discard extra cards.
 5. If 10 cards in hand and no cards played this turn, you may discard hand.
@@ -100,6 +100,10 @@ Possible **Red Courts**:
 - Jack of Hearts, Queen of Diamonds, King of Diamonds
 
 [filename](../actions/red_court.md ':include')
+
+##### Frenzied
+
+A frenzied pawn gets to attack attackers first, move 1 extra square, and gets 1 extra attack die.
 
 #### Spade Court
 
@@ -242,11 +246,23 @@ Tainted Effects:
 
 This special court card can only be played under special circumstances. It can be played in the J, Q, and K towers, but it is in play as a normal ace.
 
-You can only place it as a court card if used in an action (see specifics on the actions that use this card below.)
-
-There are two variations of this card obtained from certain courts, [Ice Queen](/appendix/?id=ice-queen) and [Motorhead](/appendix/?id=motorhead).
-
 This card unlocks the [Almighty](/rules/?id=almighty) and [Gather 3 Ancient Relics](/rules/?id=gather-3-ancient-relics) endings.
+
+You can only place it as a court card if used in an action (see specifics on the actions that use this card below).
+
+There are two variations of this card obtained from certain courts, Ice Queen and Motorhead.
+
+##### Motorhead
+
+This variation of AOS speeds up the player.
+
+You can play 2 actions each turn, but wreckless abandon causes all pawns/unpawns and buildings to be hit on a 3-6 die roll.
+
+##### Ice Queen
+
+This variation of AOS makes the realm a frozen wasteland.
+
+Buildings must be hit twice an attack to take damage.
 
 ## Movement
 
@@ -258,11 +274,31 @@ When a pawn returns to land, they can choose any space on the map next to the se
 
 ## Pawns
 
-[filename](./pawns.md ':include')
+Pawns are the soldiers of the kingdom. Each pawn represents a collection of military might that a kingdom owns.
+
+A pawn can attack other adjacent or diagonal chess pieces on the board(s), including their own if you desired.
+
+![Setup](../_media/attacking.png 'Chess pieces must touch to attack.')
+
+> Chess pieces must touch to attack. 1 and 2 can attack each other but 3 cannot.
+
+Each pawn can attack with 1 die at a time. To successfully attack a pawn must roll 5-6 on a six sided die.
+
+A pawn can be boistered with various ways in the game. When boistered, a pawn could have up to 4 checker pieces under it.
+
+Each checker gives the pawn +1 extra attack dice up to a max of 5 attack dice.
+
+A pawn can move 1 space per turn in any direction, adjacent or diagonal.
+
+Each checker gives the pawn +1 extra space it can move per turn.
+
+If a pawn dies, remove it from the board.
+
+You can never have more than 8 black pawns (unpawns) and 8 white pawns (pawns) in play at once.
 
 ### Unpawns
 
-Unpawns are the undead monstrosities born from the church's dark magic. These vile creatures are just as powerful as a pawn is, and follow all the same rules as a pawn would.
+Unpawns are the undead monstrosities born from the church's dark magic. These vile creatures are just as powerful as a pawn is, and follow all the same basic rules as a pawn would (such as movement, the pawn rules listed above, the checker rules below, ect.), but aren't affected by pawn-specific moves.
 
 ## Checkers and Boistering
 
