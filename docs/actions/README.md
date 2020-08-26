@@ -10,6 +10,10 @@
 
 [filename](../actions/king_basic.md ':include')
 
+#### Ace of Spades Actions
+
+[filename](../actions/aos.md ':include')
+
 #### Black Actions
 
 [filename](../actions/black_court.md ':include')
@@ -34,10 +38,10 @@
 
 [filename](../actions/heart_court.md ':include')
 
+#### Harmony Actions
+
+[filename](../actions/harmony_court.md ':include')
+
 #### Chaos Actions
 
 [filename](../actions/chaos_court.md ':include')
-
-#### Ace of Spades Actions
-
-[filename](../actions/aos.md ':include')
