@@ -2,8 +2,5 @@
 <!-- ![Logo](../_media/KnavesOutLogo.png) -->
 
 -   [Home](/)
--   [Introduction](/introduction/)
--   [Rules](/rules/)
--   [Actions](/actions/)
--   [Appendix](/appendix/)
--   [Changelog](/changelog/)
+-   [All](/all/)
+-   [Change Log](/changelog/)

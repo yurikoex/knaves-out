@@ -841,3 +841,9 @@ section.cover blockquote > p > a:hover {
     image-rendering: pixelated;
     width: 150px;
 }
+
+#docsify_print_btn {
+    top: 20px;
+    left: unset;
+    right: 13px;
+}

@@ -2,7 +2,7 @@
 
 ![logo](_media/KnavesOutLogo.png)
 
-# Knaves Out 0.0.11
+# Knaves Out 0.1.13
 
 > A modern war game played with classic game pieces.
 
@@ -11,7 +11,7 @@
 -   Don't like a rule? Send a pull request
 
 [GitHub](https://github.com/yurikoex/knaves-out/)
-[Get Started](/introduction/)
+[Get Started](/all/?id=introduction)
 
 <!-- background image -->
 
