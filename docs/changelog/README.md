@@ -1,6 +1,6 @@
 # 0.1.13
 
--   Major refactor on action mechanics, thanks to @sleeperninja
+-   Major refactor on action mechanics, thanks to [sleeperninja](https://github.com/sleeperninja)
     -   Light and Dark Spellbooks to class groups of actions
     -   Added meaning to tower card colors for action costs
 -   Refactor Docs
