@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-<!-- ![Logo](../_media/logo_tiny.png) -->
+<!-- ![Logo](../_media/KnavesOutLogo.png) -->
 
 -   [Home](/)
 -   [Introduction](/introduction/)
