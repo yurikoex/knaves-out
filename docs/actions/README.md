@@ -1,47 +1,27 @@
-#### Basic Knave Actions
+## Basic Court Actions
+
+### Basic Knave Actions
 
 [filename](../actions/knave_basic.md ':include')
 
-#### Basic Queen Actions
+### Basic Queen Actions
 
 [filename](../actions/queen_basic.md ':include')
 
-#### Basic King Actions
+### Basic King Actions
 
 [filename](../actions/king_basic.md ':include')
 
-#### Ace of Spades Actions
+### Ace of Spades Actions
 
 [filename](../actions/aos.md ':include')
 
-#### Black Actions
+## Spellbooks
 
-[filename](../actions/black_court.md ':include')
+### Book of Vile Darkness
 
-#### Red Actions
+[filename](../actions/VileDarkness.md ':include')
 
-[filename](../actions/red_court.md ':include')
+### Book of Exalted Deeds
 
-#### Spade Actions
-
-[filename](../actions/spade_court.md ':include')
-
-#### Club Actions
-
-[filename](../actions/club_court.md ':include')
-
-#### Diamond Actions
-
-[filename](../actions/diamond_court.md ':include')
-
-#### Heart Actions
-
-[filename](../actions/heart_court.md ':include')
-
-#### Harmony Actions
-
-[filename](../actions/harmony_court.md ':include')
-
-#### Chaos Actions
-
-[filename](../actions/chaos_court.md ':include')
+[filename](../actions/ExaltedDeeds.md ':include')

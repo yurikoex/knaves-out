@@ -71,22 +71,24 @@ The most powerful man in all the kingdom.
 
 After all 3 court cards are placed, the court acquires a _court type_ depending on the makeup of the court's suite and/or color.
 
-#### Black Court
+There are also two overarching types of courts, Light Courts and Dark Courts. Any Light Court can use any other Light Court's abilities, and any Dark Court can use other Dark Court actions, but they have to use the correct card typing.
 
-The black court is a nefarious group of dark souls using magic and evil to expand its power.
+#### Light Courts
 
-Possible **Black Courts**:
+The Light Courts represent all that is good and holy in the world. Not all Light Courts are as pure as the others, but they are still untainted by dark magics and evil spirits.
 
-- Jack of Clubs, Queen of Clubs, King of Spades
-- Jack of Clubs, Queen of Spades, King of Spades
-- Jack of Clubs, Queen of Spades, King of Clubs
-- Jack of Spades, Queen of Clubs, King of Spades
-- Jack of Spades, Queen of Spades, King of Clubs
-- Jack of Spades, Queen of Clubs, King of Clubs
+The Light Courts use the Red card typing, so to use another Light Court's actions you must spend only red cards.
 
-[filename](../actions/black_court.md ':include')
+All Light Court actions can be found here: [Book of Exalted Deeds](/actions/?id=exalteddeeds)
 
-#### Red Court
+The Light courts are:
+
+- **Red Court**
+- **Heart Court**
+- **Diamond Court**
+- **Harmony Court**
+
+##### Red Court
 
 The red court is hotheaded bunch. They move with haste throwing caution to the wind.
 
@@ -101,41 +103,11 @@ Possible **Red Courts**:
 
 [filename](../actions/red_court.md ':include')
 
-##### Frenzied
+###### Frenzied
 
 A frenzied pawn gets to attack attackers first, move 1 extra square, and gets 1 extra attack die.
 
-#### Spade Court
-
-The spade court is determined to dominate. They execute with the guidance of unseen servants from the great beyond leading them to victory.
-
-Possible **Spade Courts**:
-
-- Jack of Spades, Queen of Spades, King of Spades
-
-[filename](../actions/spade_court.md ':include')
-
-#### Club Court
-
-The club court runs on fate. They consider themselves the chosen ones, so a roll of the die should always be in their favor.
-
-Possible **Club Courts**:
-
-- Jack of Clubs, Queen of Clubs, King of Clubs
-
-[filename](../actions/club_court.md ':include')
-
-#### Diamond Court
-
-The diamond court considers their kingdom invincible.
-
-Possible **Diamond Courts**:
-
-- Jack of Diamonds, Queen of Diamonds, King of Diamonds
-
-[filename](../actions/diamond_court.md ':include')
-
-#### Heart Court
+##### Heart Court
 
 The heart court overflows with spirit. Courageousness and willpower spew from their very being.
 
@@ -145,7 +117,17 @@ Possible **Heart Courts**:
 
 [filename](../actions/heart_court.md ':include')
 
-#### Harmony Court
+##### Diamond Court
+
+The diamond court considers their kingdom invincible.
+
+Possible **Diamond Courts**:
+
+- Jack of Diamonds, Queen of Diamonds, King of Diamonds
+
+[filename](../actions/diamond_court.md ':include')
+
+##### Harmony Court
 
 The harmony court preserves a fine balance of influence over it's kingdom.
 
@@ -177,7 +159,57 @@ Possible **Harmony Courts**:
 
 [filename](../actions/harmony_court.md ':include')
 
-#### Chaos Court
+#### Dark Courts
+
+The Dark Courts represents all that is unholy and evil. They are determined to win at **any** cost and think only of themselves.
+
+The Dark Courts use the black card typing, so to use another Dark Court's actions you must spend only black cards.
+
+All Dark Court actions can be found here: [Book of Vile Darkness](/actions/?id=viledarkness)
+
+The Dark Courts are:
+
+- **Black Court**
+- **Club Court**
+- **Spade Court**
+- **Chaos Court**
+
+##### Black Court
+
+The black court is a nefarious group of dark souls using magic and evil to expand its power.
+
+Possible **Black Courts**:
+
+- Jack of Clubs, Queen of Clubs, King of Spades
+- Jack of Clubs, Queen of Spades, King of Spades
+- Jack of Clubs, Queen of Spades, King of Clubs
+- Jack of Spades, Queen of Clubs, King of Spades
+- Jack of Spades, Queen of Spades, King of Clubs
+- Jack of Spades, Queen of Clubs, King of Clubs
+
+[filename](../actions/black_court.md ':include')
+
+##### Club Court
+
+The club court runs on fate. They consider themselves the chosen ones, so a roll of the die should always be in their favor.
+
+Possible **Club Courts**:
+
+- Jack of Clubs, Queen of Clubs, King of Clubs
+
+[filename](../actions/club_court.md ':include')
+
+##### Spade Court
+
+The spade court is determined to dominate. They execute with the guidance of unseen servants from the great beyond leading them to victory.
+
+Possible **Spade Courts**:
+
+- Jack of Spades, Queen of Spades, King of Spades
+
+[filename](../actions/spade_court.md ':include')
+
+##### Chaos Court
 
 The chaos court doesn't care if it wins. This group of rulers are so busy clashing with each other that they barely get anything done.
 
