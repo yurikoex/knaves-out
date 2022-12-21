@@ -54,23 +54,20 @@ Each player takes a turn following the same order described in setup.
 
 1. Shuffle discard with deck if desired.
 2. Draw up to 10 cards in hand.
-3. Take any of the following 4 steps in any order.
-    - Play any cards from hand face up on towers.
-    - Take 1 allowed action
-    - Move any number of pawns/unpawns
-    - Attack
-4. If over 10 cards in hand, discard extra cards.
-5. If 10 cards in hand and no cards played this turn, you may discard hand.
+3. Take any of the following 4 steps in any order. 
+    - Play any cards from hand face up on towers. (You may play cards at ANY time as many times as you want during your turn; after attacks, movement, actions, ect.)
+    - Take only 1 allowed action, unless otherwise stated.
+    - Move any number of pawns/unpawns (You may move as many times as you wish, equal to the pawn's strength. Unlike the other actions, you may move 2 or more different times in a turn, for example, moving a pawn forwards to attack, then moving backwards to get out of danger.)
+    - Attack (Each pawn/unpawn may do 1 attack per turn)
+4. If 10 cards in hand and no cards played this turn, you may discard hand.
 
 ## Courts
 
 There are 3 towers of cards on the table in front of each player. Each tower is built on court cards. The basics of building towers is selecting a court to rule the kingdom. A court consists of a Knave(Jack), a Queen, and a King card. Depending on the combination of the court, different allowable actions are available to the player and the main strategy of Knaves Out.
 
-There is also a fourth tower that is unlockable through certain court actions. This tower is built upon the Ace of Spades, and works as a normal tower would. More information on the Ace of Spades can be found later on in the rules.
-
 ![Setup](../_media/towers.png 'Typical layout')
 
-> Play area layout along with the AOS tower.
+> Play area layout.
 
 ### Knave
 
@@ -133,10 +130,6 @@ Possible **Red Courts**:
 -   Jack of Hearts, Queen of Diamonds, King of Diamonds
 
 [filename](../actions/red_court.md ':include')
-
-###### Frenzied
-
-A frenzied pawn gets to attack attackers first, move 1 extra square, and gets 1 extra attack die.
 
 ##### Heart Court
 
@@ -305,28 +298,6 @@ Tainted Effects:
 | King  | **Knight** Costs 3                                                                                                 |
 | King  | _Evil King_ - Makes any unpawn succesfully attack with a die roll of 4-6                                           |
 
-#### Ace of Spades
-
-This special court card can only be played under special circumstances. It can be played in the J, Q, and K towers, but it is in play as a normal ace.
-
-This card unlocks the [Almighty](/rules/?id=almighty) and [Gather 3 Ancient Relics](/rules/?id=gather-3-ancient-relics) endings.
-
-You can only place it as a court card if used in an action (see specifics on the actions that use this card below).
-
-There are two variations of this card obtained from certain courts, Ice Queen and Motorhead.
-
-##### Motorhead
-
-This variation of AOS speeds up the player.
-
-You can play 2 actions each turn, but wreckless abandon causes all pawns/unpawns and buildings to be hit on a 3-6 die roll.
-
-##### Ice Queen
-
-This variation of AOS makes the realm a frozen wasteland.
-
-Buildings must be hit twice an attack to take damage.
-
 ## Movement
 
 Pawns can move any direction. They can move a number of spaces equal to the checkers under them plus one.
@@ -417,27 +388,7 @@ If two bishop buildings are in play, you need a perfect 6 die roll to hit their 
 
 ## Winning
 
-### Last Man Standing
-
 If all other players are defeated and you are alive, you win.
-
-### Gather 3 Ancient Relics
-
-Players can quest to gather the 3 ancient relics scattered across the map.
-
-When at a relic location, attack the darkness, if the attack is successful, the relic is acquired.
-
-When you collect the first relic, your Knave tower crumbles and turns to dust. The second relic's collection causes the Queen tower to crumble into dust. The final relic does not destroy a tower, as you win!
-
-Relic Locations:
-
--   Farthest corner of a board away from your king building.
--   Closest empty red square to the closest enemy king building.
--   At sea.
-
-### Almighty
-
-If every card is in play, (including the AOS and its tower) you win!
 
 ## Defeat
 
@@ -497,6 +448,24 @@ If you wish, add A-3 to each tower to get right into the action!
 | 1 red each                  | free                    | Balance                           | Move checker from one adjacent pawn to another                                                            | Harmony |
 | 1 red each                  | 1 each                  | Redirect                          | Until start of your next turn, damage taken to chess pieces can be moved to adjacent chess pieces you own | Harmony |
 | 4 red each                  | 4 each                  | Boister                           | Add 1 checker to each of your current pawns                                                               | Harmony |
+
+## Towers
+
+The Two Towers are "events" any player can call upon at any time during a game. These towers come with both a negative and positive effect, so choose carefully if and when you want to use them.
+
+Each tower can only be used once per game, and once the towers are destroyed, their after effects happen. 
+
+###  Ivory Tower
+
+Once per game, The White Queen piece is placed, becoming the Ivory Tower with 10 checkers under it, sacrifice them from unused or boistered. The placement is determined by the player who activates it. The player will declare themselves the Chosen One, stating "The Gods have chosen me as the one true king." The tower is placed by the Chosen One, and any enemy can attack it freely. The Ivory tower will deal 1 damage to any pawn or unpawns that starts a movement on the board the Ivory tower is placed on, exluding the Chosen One's pawns/unpawns. If the tower is destroyed, the Chosen one dies and loses.
+
+ - After effects: The board the Ivory Tower was placed on becomes an island, accessible only via seafaring.
+
+### Dark Tower
+
+Once per game, The Black Queen piece is placed, becoming the Dark Tower with 10 checkers under it, sacrifice them from unused or boistered. The placement is by the Chosen One's choice of enemy. The player will declare themselves the Chosen One, stating "The Gods have chosen me as the destroyer of evil." The tower is placed by the chosen enemy, and in the beginning of each of the Chosen One's turns, a checker is removed from the Dark Tower. If the tower reaches 0 checkers, the Chosen One dies. The chosen player must deal damage to the Dark Tower to destroy it. If the tower is destroyed, the chosen enemy dies and loses.
+
+-   After effects: The board the Dark Tower was placed on becomes Cleansed Ground, doubling movement speed if you start your movement in the Cleansed Ground.
 
 # Appendix
 
