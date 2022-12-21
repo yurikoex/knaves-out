@@ -107,7 +107,7 @@ The Light Courts represent all that is good and holy in the world. Not all Light
 
 The Light Courts use the Red card typing, so to use another Light Court's actions you must spend only red cards.
 
-All Light Court actions can be found here: [Book of Exalted Deeds](/actions/?id=exalteddeeds)
+All Light Court actions can be found here: [Book of Exalted Deeds](/all/?id=book-of-exalted-deeds)
 
 The Light courts are:
 
@@ -189,7 +189,7 @@ The Dark Courts represents all that is unholy and evil. They are determined to w
 
 The Dark Courts use the black card typing, so to use another Dark Court's actions you must spend only black cards.
 
-All Dark Court actions can be found here: [Book of Vile Darkness](/actions/?id=viledarkness)
+All Dark Court actions can be found here: [Book of Vile Darkness](/all/?id=book-of-vile-darkness)
 
 The Dark Courts are:
 
@@ -422,7 +422,7 @@ If you wish, add A-3 to each tower to get right into the action!
 | 1 black each                      | 1 each                  | Unseen Servant                    | Search for 2 cards, put in play                                                                       | Spade |
 | 1 black each                      | 1 each                  | Wild Surge                        | Move a building like a pawn                                                                           | Spade |
 | 4 black each                      | 4 each                  | Force of will                     | Target tower crumbles(discarded), leaving only the court                                              | Spade |
-| Full black knave tower            | Full knave tower        | [Motorhead](/rules/?id=motorhead) | Place the [Ace of Spades](/rules/?id=ace-of-spades)                                                   | Spade |
+| Devour black knave tower          | Devour knave tower      | Motorhead                         | You can play 2 actions each turn, but wreckless abandon causes all pawns/unpawns and buildings to be hit on a 3-6 die roll.                                                                                                                                                                                                     | Spade |
 | 1 black off of the tower you move | free                    | Infighting                        | Move any amount of a stack of a tower to another tower                                                | Chaos |
 | 1 black each                      | 1 each                  | Failed Plan                       | Recall any pawn next to any owned building                                                            | Chaos |
 | 1 black each                      | 1 each                  | Conspire                          | Add +1 attack die to last attack in your turn                                                         | Chaos |
@@ -435,7 +435,7 @@ If you wish, add A-3 to each tower to get right into the action!
 | 1 red each                  | 1 each                  | Rush                              | All pawns move double this turn                                                                           | Red     |
 | 1 red each                  | 1 each                  | Seabreeze                         | Any pawns can becoming seafaring during this turn                                                         | Red     |
 | 2 red each                  | 2 each                  | Summerbreeze                      | Until next turn, all pawns hit with 1 extra attack die                                                    | Red     |
-| 4 red each                  | 4 each                  | Frenzied                          | Until start of next turn, all pawns are **frenzied**                                                      | Red     |
+| 4 red each                  | 4 each                  | Frenzied                          | Until start of next turn, all pawns are **frenzied** (A frenzied pawn gets to strike attacking pawns/unpawns first, moves one extra square, and gets 1 extra attack die (max of 5)                                                                                                                                                | Red     |
 | Devour full red king tower  | Devour king tower       | King Crimson                      | All boistered pawns have **rush**                                                                         | Red     |
 | 1 red each                  | free                    | Lionheart                         | Reroll 1 die roll                                                                                         | Heart   |
 | 1 red each                  | 1 each                  | Insight                           | Until next turn, move one attacking enemy 1 square                                                        | Heart   |
@@ -444,7 +444,7 @@ If you wish, add A-3 to each tower to get right into the action!
 | 1 red each                  | free                    | Castle                            | Once per game, swap location of king building with a rook building                                        | Diamond |
 | 1 red each                  | 1 each                  | Shield Wall                       | Pawns can only be hit by 6 on attack dice until next turn                                                 | Diamond |
 | 2 red each                  | 2 each                  | Thorns                            | Until start of next turn, any damage to buildings hits attackers for 1/2 damage(rounded up)               | Diamond |
-| Full red queen tower        | Full queen tower        | [Ice Queen](/rules/?id=ice-queen) | Place the [Ace of Spades](/rules/?id=ace-of-spades)                                                       | Diamond |
+| Devour red queen tower      | Devour queen tower      | Ice Queen                         | Buildings must be hit twice an attack to take damage.                                                     | Diamond |
 | 1 red each                  | free                    | Balance                           | Move checker from one adjacent pawn to another                                                            | Harmony |
 | 1 red each                  | 1 each                  | Redirect                          | Until start of your next turn, damage taken to chess pieces can be moved to adjacent chess pieces you own | Harmony |
 | 4 red each                  | 4 each                  | Boister                           | Add 1 checker to each of your current pawns                                                               | Harmony |
