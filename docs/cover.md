@@ -2,7 +2,7 @@
 
 ![logo](_media/KnavesOutLogo.png)
 
-# Knaves Out 0.1.13
+# Knaves Out 0.2.0
 
 > A modern war game played with classic game pieces.
 
