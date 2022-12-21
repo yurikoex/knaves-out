@@ -1,3 +1,20 @@
+# 0.2.0
+
+## TODO
+
+-   ScrubZxro wants balance to Gather 3 Ancient Relics
+    -   Testing: remove Gather 3 Ancient Relics
+    -   The Two Towers Ending
+    -
+        - Ivory Tower
+            - Once per game, The White Queen piece is placed, becoming the Ivory Tower with 10 checkers under it, sacrifice them from unused or boistered. The placement is determined by the player who activates it. The player will declare themselves the Chosen One, stating "The Gods have chosen me as the one true king." The tower is placed by the Chosen One, and any enemy can attack it freely. The Ivory tower will deal 1 damage to any pawn or unpawns that starts a movement on the board the Ivory tower is placed on, exluding the Chosen One's pawns/unpawns. If the tower is destroyed, the Chosen one dies and loses.
+            - After effects: The board the Ivory Tower was placed on becomes an island, accessible only via seafaring.
+        - Dark Tower
+            - Once per game, The Black Queen piece is placed, becoming the Dark Tower with 10 checkers under it, sacrifice them from unused or boistered. The placement is by the Chosen One's choice of enemy. The player will declare themselves the Chosen One, stating "The Gods have chosen me as the destroyer of evil." The tower is placed by the chosen enemy, and in the beginning of each of the Chosen One's turns, a checker is removed from the Dark Tower. If the tower reaches 0 checkers, the Chosen One dies. The chosen player must deal damage to the Dark Tower to destroy it. If the tower is destroyed, the chosen enemy dies and loses.
+            - After effects: The board the Dark Tower was placed on becomes Cleansed Ground, doubling movement speed if you start your movement in the Cleansed Ground.
+            
+-   Refactor general court abilities.
+
 # 0.1.13
 
 -   Major refactor on action mechanics, thanks to [sleeperninja](https://github.com/sleeperninja)
