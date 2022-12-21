@@ -1,12 +1,23 @@
 # 0.2.0
+-   Content
+    -   Added the Ivory and Dark towers.
+    -   Added Tranquility.
 
+-   Fixes
+
+    -   Clarified turn rules
+    -   Reworked/Removed win conditions, in order to balance longer/bigger sized games.
+    -   Removed Ace Of Spades tower.
 ## TODO
-
--   Add rules for basic combat, attacker attacks first
+-   Balance metagame between courts
+# Return to Knaves Out
+## TODO
+-   Redo graphics to match the current state of the game.
+-   Add rules for basic combat, attacker attacks first, and the attacked retaliates if not killed. 
 -   Attacking/moving/actions/playing cards are all interchangeble... maybe update wording
 -   ScrubZxro wants balance to Gather 3 Ancient Relics
     -   Testing: remove Gather 3 Ancient Relics
-    -   The Two Towers Ending
+    -   The Two Towers
         - Ivory Tower
             - Once per game, The White Queen piece is placed, becoming the Ivory Tower with 10 checkers under it, sacrifice them from unused or boistered. The placement is determined by the player who activates it. The player will declare themselves the Chosen One, stating "The Gods have chosen me as the one true king." The tower is placed by the Chosen One, and any enemy can attack it freely. The Ivory tower will deal 1 damage to any pawn or unpawns that starts a movement on the board the Ivory tower is placed on, exluding the Chosen One's pawns/unpawns. If the tower is destroyed, the Chosen one dies and loses.
             - After effects: The board the Ivory Tower was placed on becomes an island, accessible only via seafaring.
