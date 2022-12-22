@@ -1,25 +1,25 @@
 {
-  "name": "knaves-out",
-  "version": "0.0.10",
-  "description": "A modern war game played with classic game pieces",
-  "main": "index.js",
-  "scripts": {
-    "start": "shx cp package.json ./docs && docsify serve docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yurikoex/knaves-out.git"
-  },
-  "keywords": [],
-  "author": "Joshua Lunsford",
-  "license": "CC BY-NC-ND 4.0",
-  "bugs": {
-    "url": "https://github.com/yurikoex/knaves-out/issues"
-  },
-  "homepage": "https://github.com/yurikoex/knaves-out#readme",
-  "dependencies": {
-    "docsify": "^4.11.6",
-    "docsify-cli": "^4.4.1",
-    "shx": "^0.3.2"
-  }
+    "name": "knaves-out",
+    "version": "0.2.0",
+    "description": "A modern war game played with classic game pieces",
+    "main": "index.js",
+    "scripts": {
+        "start": "shx cp package.json ./docs && docsify serve docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yurikoex/knaves-out.git"
+    },
+    "keywords": [],
+    "author": "Joshua Lunsford",
+    "license": "CC BY-NC-ND 4.0",
+    "bugs": {
+        "url": "https://github.com/yurikoex/knaves-out/issues"
+    },
+    "homepage": "https://github.com/yurikoex/knaves-out#readme",
+    "dependencies": {
+        "docsify": "^4.13.0",
+        "docsify-cli": "^4.4.4",
+        "shx": "^0.3.4"
+    }
 }

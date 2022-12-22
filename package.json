@@ -18,8 +18,8 @@
     },
     "homepage": "https://github.com/yurikoex/knaves-out#readme",
     "dependencies": {
-        "docsify": "^4.11.6",
-        "docsify-cli": "^4.4.1",
-        "shx": "^0.3.2"
+        "docsify": "^4.13.0",
+        "docsify-cli": "^4.4.4",
+        "shx": "^0.3.4"
     }
 }
